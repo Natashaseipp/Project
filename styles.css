@@ -49,10 +49,38 @@ header {
 	width: 960px;
 }
 
-#boxes {
+#box1 {
 	background: black;
-	height: 900px;
-	width: 960px;
+	height: 300px;
+	width: 450px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 700px;
+}
+
+#box2 {
+	background: black;
+	height: 300px;
+	width: 450px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 700px;
+}
+
+#box3 {
+	background: black;
+	height: 300px;
+	width: 450px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#box4 {
+	background: black;
+	height: 300px;
+	width: 450px
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 
 footer {
